@@ -11,9 +11,7 @@ mkdir ~/terminal/www/trash
 ls -lat
 cd ~/terminal/www/assets
 echo "Three files are being created in the assets directory"
-touch logo.png
-touch banner.png
-touch styles.css
+touch logo.png banner.png styles.css
 ls
 cd ..
 rm *.log
